@@ -21,5 +21,5 @@
 ![Omoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmobaVII&show_icons=true&theme=radical)
 
 ### Get in Touch
-- <a href="https://www.linkedin.com/in/sanni-omoba/"><img src="images/linkedin-3-xxl.png" style="height=5px, width=5px" alt="LinkedIn"></a>
+- <a href="https://www.linkedin.com/in/sanni-omoba/"><img src="images/linkedin-3-xxl.png" height="30" width="30" alt="LinkedIn"></a>
 - Email: [E-mail](omoba.career@gmail.com)
