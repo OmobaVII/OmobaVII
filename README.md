@@ -1,3 +1,5 @@
+<div style="background-color: black; color: white; padding: 20px; text-align: center;">
+
 ### Hi there, I'm Omoba Sanni 👋
 
 🎓 Backend Software Engineer, ALX Graduate   
@@ -19,3 +21,4 @@
 ### Get in Touch
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanni-omoba/)
 - Email: [E-mail](omoba.career@gmail.com)
+</div>
