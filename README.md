@@ -10,16 +10,25 @@
 ### My Tech Stack
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/OmobaVII/AirBnB_clone_v2/tree/master/web_static)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/OmobaVII/AirBnB_clone_v2/tree/master/web_static)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://github.com/OmobaVII/simple_shell)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=flat&logoColor=white)
 
+
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://github.com/OmobaVII/simple_shell)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/OmobaVII/alx-higher_level_programming)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/OmobaVII/alx-higher_level_programming/tree/master/0x15-javascript-web_jquery)
+
+
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/OmobaVII/AirBnB_clone_v2/tree/master/web_flask)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/OmobaVII/alx-backend-javascript/tree/master/0x05-Node_JS_basic)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://github.com/OmobaVII/alx-backend-javascript/tree/master/0x05-Node_JS_basic)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/OmobaVII/alx-backend-javascript/tree/master/0x04-TypeScript)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/OmobaVII/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/OmobaVII/AirBnB_clone_v4)
+[![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=flat&logoColor=white)](https://github.com/OmobaVII/AirBnB_clone_v4)
+
+
+[![Shell](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/OmobaVII/alx-system_engineering-devops)
+[![DevOps](https://img.shields.io/badge/-DevOps-0A0FFF?style=flat&logo=devops&logoColor=white)](https://github.com/OmobaVII/alx-system_engineering-devops)
 
 
 
