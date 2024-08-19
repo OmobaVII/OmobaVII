@@ -14,12 +14,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### My Projects
-- 🌍 [Weather Forecasting Application](https://github.com/kofifloki/weatherly-app)
-- 💱 [Currency Converter](https://github.com/OmobaVII/currensee)
+- 🌍 [Weather Forecasting Application](https://kofifloki.github.io/Weatherly-App/)
+- 💱 [Currency Converter](https://omobavii.github.io/CurrenSee/)
 
 ### GitHub Stats
 ![Omoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmobaVII&show_icons=true&theme=radical)
 
 ### Get in Touch
 - <a href="https://www.linkedin.com/in/sanni-omoba/"><img src="images/linkedin-3-xxl.png" height="30" width="30" alt="LinkedIn"></a>
-- Email: [E-mail](omoba.career@gmail.com)
+- <a href="mailto:omoba.career@gmail.com/"><img src="images/mail.png" height="30" width="30" alt="Mail Me"></a>
